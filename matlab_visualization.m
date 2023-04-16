@@ -1,5 +1,5 @@
 %{  
-* File: matlab.m
+* File: matlab_visualization.m
 * Author: Rahim Aziz
 * Date: 2023 - 04 - 08
 * Course:  COMP ENG 2DX3 Final Deliverable
