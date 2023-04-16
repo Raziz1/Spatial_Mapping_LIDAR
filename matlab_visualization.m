@@ -1,7 +1,6 @@
 %{  
 * File: matlab.m
 * Author: Rahim Aziz
-* Student Number: 400383784
 * Date: 2023 - 04 - 08
 * Course:  COMP ENG 2DX3 Final Deliverable
 * 
